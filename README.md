@@ -100,8 +100,4 @@ Engineered Strategic Segmentation: Categorized customers and products based on b
 
 Delivered Performance Analytics: Built cumulative and time-series analyses (including Year-over-Year and Month-over-Month tracking) to uncover sales trends, benchmark performance, and provide a clear picture of overall business health.
 
-## Let's connect
-If something I've built looks interesting or useful, feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvkrishna3/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:loknadh.kona@gmail.com)
