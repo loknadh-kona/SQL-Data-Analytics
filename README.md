@@ -85,10 +85,6 @@ Tracking business growth and identifying seasonal patterns.
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/KrishnaSai315/SQL-Data-Analytics/blob/main/LICENSE) file for details.
 
-
-## 🌟 About Me
-Hi, I’m Loknadh_Kona (but you can call me Loki). ⚡ With an MS in Data Science and hands-on experience as a Systems Engineer and Data Scientist, I specialize in turning raw data into strategic assets. I approach complex data challenges a lot like a heavy lifting session at the gym: it takes discipline, the right technique, and a little bit of sweat to build solutions that scale and deliver real results.
-
 ## Why I Built This Project
 While my previous repository focused on the heavy backend engineering of building a Data Warehouse, I developed this project to showcase the other half of the equation: extracting actionable business value. I wanted to demonstrate my ability to step into a Business Intelligence role, write advanced, highly optimized T-SQL, and translate a pristine Star Schema into strategic insights that stakeholders can actually use to drive decisions.
 
